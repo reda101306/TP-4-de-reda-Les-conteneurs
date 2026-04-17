@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <div class="box b1">
+        <img src="historique.web.jpg">
+        <h1>The History of Web Development</h1>
+        <p>Web development started in the early 1990s with the creation of the World Wide Web.
+           HTML was the first language used to build simple web pages. Later, CSS was introduced to improve design,
+           and JavaScript was added to make websites interactive.Over time, web technologies have evolved 
+           significantly, allowing developers to create complex and powerful web applications used in everyday life.</p>
+        <button>read more...</button>
+    </div>
+    <div class="box b2">
+        <img src="web.logo.png">
+        <h1>Why Choose HTML, CSS, and JavaScript</h1>
+        <p>HTML, CSS, and JavaScript are the core technologies of web development. 
+          They are supported by all web browsers and are essential for building any website.Using these languages 
+          ensures compatibility, flexibility, and performance. Unlike other programming languages, they are 
+          specifically designed for the web, making them the best choice for creating modern websites.</p>
+        <button>read more...</button>
+    </div>
+    <div class="box b3">
+        <img src="html.logo.jpg">
+        <h1>Introduction to HTML</h1>
+        <p>HTML (HyperText Markup Language) is the standard language used to create web pages. 
+          It provides the basic structure of a website by organizing content into elements such as headings, 
+          paragraphs, images, and links. HTML is easy to learn and is the first step for anyone who wants to
+          enter the world of web development.Web programming using HTML allows developers to create structured
+          and accessible websites. It is essential because every website on the internet is built using HTML 
+          as a foundation.</p>
+        <button>read more...</button>
+    </div>
+    <div class="box b4">
+        <img src="css.logo.png">
+        <h1>The Role of CSS in Web</h1>
+        <p>CSS (Cascading Style Sheets) is used to style and design web pages. While HTML provides the structure, 
+          CSS controls the appearance, including colors, fonts, layouts, and spacing.CSS makes websites more 
+          attractive and user-friendly. It also allows developers to create responsive designs that adapt to 
+          different screen sizes such as mobile phones and tablets.</p>
+        <button>read more...</button>
+    </div>
+    <div class="box b5">
+        <img src="js.logo.png">
+        <h1>JavaScript and Interactivity</h1>
+        <p>JavaScript is a programming language that adds interactivity to websites. It allows developers to 
+          create dynamic features such as animations, form validation, and real-time updates.With JavaScript,
+           websites become more engaging and interactive. It works together with HTML and CSS to create complete
+            and modern web applications.</p>
+        <button>read more...</button>
+    </div>
+</div>
+</body>
+</html>
